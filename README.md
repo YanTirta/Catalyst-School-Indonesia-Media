@@ -27,4 +27,15 @@
 <img width="673" alt="Community Review - Score Weight 3" src="https://github.com/user-attachments/assets/f01cfcc4-3ce2-4d71-b6ec-7f26f530e7a6">
 <img width="670" alt="Community Review - Score Weight 2" src="https://github.com/user-attachments/assets/f9df56e7-6a00-4bfc-858f-d47a0e078c7e">
 
+![How to vote 4](https://github.com/user-attachments/assets/d4eb0779-e14b-4d4f-b16e-b56fce409c43)
+![How to vote 5](https://github.com/user-attachments/assets/80a61792-5b10-4ca2-b244-316ee61377d9)
+![How to vote 6](https://github.com/user-attachments/assets/1e66ab16-dc53-4d71-b3be-c5ba7c7ea134)
+![How to vote 1](https://github.com/user-attachments/assets/30e2c90b-9e7f-47ce-90e1-e1f5bba2eae6)
+![How to vote 2](https://github.com/user-attachments/assets/7ee95dac-843a-49c1-af9e-644cd0916a82)
+![How to vote 3](https://github.com/user-attachments/assets/44a869b3-289c-4561-9128-57789602082b)
+
+<img width="672" alt="Reproducing the snapshot 2" src="https://github.com/user-attachments/assets/7a88cf8f-8d12-4941-81ea-4a276e27e20e">
+<img width="672" alt="Reproducing the snapshot 3" src="https://github.com/user-attachments/assets/5d838496-e9c5-4693-846e-0f1823a0721d">
+<img width="670" alt="Reproducing the snapshot 1" src="https://github.com/user-attachments/assets/1a3bae6e-2b2a-4b0f-9be9-f3e1afe962d9">
+
 
