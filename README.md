@@ -38,4 +38,6 @@
 <img width="672" alt="Reproducing the snapshot 3" src="https://github.com/user-attachments/assets/5d838496-e9c5-4693-846e-0f1823a0721d">
 <img width="670" alt="Reproducing the snapshot 1" src="https://github.com/user-attachments/assets/1a3bae6e-2b2a-4b0f-9be9-f3e1afe962d9">
 
+[F10 Cohort Onboarding - Sep 26 [public].pdf](https://github.com/user-attachments/files/16414384/F10.Cohort.Onboarding.-.Sep.26.public.pdf)
+
 
