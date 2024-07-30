@@ -1,6 +1,8 @@
 # Catalyst-School-Indonesia-Video
 [![Video Title](https://img.youtube.com/vi/a1bjsu5auuI/0.jpg)](https://www.youtube.com/watch?v=a1bjsu5auuI)
 
+[![Video Title](https://img.youtube.com/vi/_s4G9RTgL_A.jpg)](https://www.youtube.com/watch?v=_s4G9RTgL_A)
+
 # Catalyst-School-Indonesia-Image
 ![How to setup an account 1](https://github.com/user-attachments/assets/6083daaf-a73d-401e-986e-5fc86f50f366)
 ![How to setup an account 2](https://github.com/user-attachments/assets/29b9a644-ddd7-4724-af5b-4892ed52cbda)
@@ -39,5 +41,6 @@
 <img width="670" alt="Reproducing the snapshot 1" src="https://github.com/user-attachments/assets/1a3bae6e-2b2a-4b0f-9be9-f3e1afe962d9">
 
 [F10 Cohort Onboarding - Sep 26 [public].pdf](https://github.com/user-attachments/files/16414384/F10.Cohort.Onboarding.-.Sep.26.public.pdf)
+![F10 Cohort Onboarding - Sep 26  public](https://github.com/user-attachments/assets/86e0d531-591f-4ba5-9386-b68fe03add6f)
 
 
