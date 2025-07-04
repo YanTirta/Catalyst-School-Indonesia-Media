@@ -6,9 +6,11 @@
 
 [![Video Title](https://img.youtube.com/vi/OqvSpT-Pjb4/0.jpg)](https://www.youtube.com/watch?v=OqvSpT-Pjb4)
 
-[![Video Title](https://raw.githubusercontent.com/YanTirta/Catalyst-School-Indonesia-Media/refs/heads/main/Milestone%20Reviewer%201.jpg)](https://drive.google.com/file/d/1Ihg7TDSQnqks-P70JJHk22I8g1vmSL7T/view?usp=sharing)
-
-
+[![Video Title](https://raw.githubusercontent.com/YanTirta/Catalyst-School-Indonesia-Media/refs/heads/main/Milestone%20Reviewer%201.jpg)](https://drive.google.com/file/d/1Ihg7TDSQnqks-P70JJHk22I8g1vmSL7T/view?usp=drive_link)
+[![Video Title](https://raw.githubusercontent.com/YanTirta/Catalyst-School-Indonesia-Media/refs/heads/main/Milestone%20Reviewer%202.jpg)](https://drive.google.com/file/d/1mGsMh_qtOd_n-Gt3m_EfDv2p2bSo7u_g/view?usp=drive_link)
+[![Video Title](https://raw.githubusercontent.com/YanTirta/Catalyst-School-Indonesia-Media/refs/heads/main/Milestone%20Reviewer%203.jpg)](https://drive.google.com/file/d/1uN1ttV9Z4519q5rrnfjoFNKY3WWZ0SpY/view?usp=drive_link)
+[![Video Title](https://raw.githubusercontent.com/YanTirta/Catalyst-School-Indonesia-Media/refs/heads/main/Milestone%20Reviewer%204.jpg)](https://drive.google.com/file/d/1CS9Hmqj8-1VcXfubCV9jnHtWanHEwf-0/view?usp=drive_link)
+[![Video Title](https://raw.githubusercontent.com/YanTirta/Catalyst-School-Indonesia-Media/refs/heads/main/Milestone%20Reviewer%205.jpg)](https://drive.google.com/file/d/1Kma3GYgrudogP82xKbN8_VsoCa8IpbR5/view?usp=drive_link)
 
 # Catalyst-School-Indonesia-Image
 ![How to setup an account 1](https://github.com/user-attachments/assets/6083daaf-a73d-401e-986e-5fc86f50f366)
