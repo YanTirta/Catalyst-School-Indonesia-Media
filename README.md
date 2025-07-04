@@ -6,6 +6,9 @@
 
 [![Video Title](https://img.youtube.com/vi/OqvSpT-Pjb4/0.jpg)](https://www.youtube.com/watch?v=OqvSpT-Pjb4)
 
+[![Video Title](https://drive.google.com/file/d/1dHTyRLLpAraQ0JNAqns47x9o1fKOdF22/view)](https://drive.google.com/file/d/1Ihg7TDSQnqks-P70JJHk22I8g1vmSL7T/view?usp=sharing)
+
+
 
 # Catalyst-School-Indonesia-Image
 ![How to setup an account 1](https://github.com/user-attachments/assets/6083daaf-a73d-401e-986e-5fc86f50f366)
